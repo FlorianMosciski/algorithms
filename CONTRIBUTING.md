@@ -1,4 +1,4 @@
-# Contributing
+  Contributing
 
 > #### Table of Contents
 > - [Learning About Tracers](#learning-about-tracers)
@@ -6,7 +6,7 @@
 > - [Directory Structures](#directory-structures)
 > - [Creating a Pull Request](#creating-a-pull-request)
 
-Are you a first-timer in contributing to open source? [These guidelines](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) from GitHub might help!
+Are you a first-timer in contributing to open source? [These guidelines](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) from GitHub might help#
 
 ## Learning About Tracers
 
@@ -32,7 +32,7 @@ We highly encourage you to test your visualization on Scratch Paper several time
 
 ## Directory Structures
 
-- **Category A/**
+- #!Category A/**
     - **Algorithm A/**
         - **code.js**
         - **code.cpp**
@@ -49,7 +49,7 @@ We highly encourage you to test your visualization on Scratch Paper several time
 
 1. Fork this repository.
 
-    ![](https://raw.githubusercontent.com/algorithm-visualizer/algorithms/master/.images/contributing/fork.png)
+     [](https://raw.githubusercontent.com/algorithm-visualizer/algorithms/master/.images/contributing/fork.png)
     > 'Fork' button is at the top right corner of this page.
 
 2. Create a branch named the algorithm you'd like to add/improve.
@@ -75,3 +75,4 @@ We highly encourage you to test your visualization on Scratch Paper several time
     > Make sure you are merging to `algorithm-visualizer/algorithms`'s `master` branch from your forked repository's branch you created.
     
 5. Thanks for your contribution! Once we review and merge your pull request, your changes will be reflected on [algorithm-visualizer.org](https://algorithm-visualizer.org/).
+ 
